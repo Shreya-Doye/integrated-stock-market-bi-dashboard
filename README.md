@@ -165,5 +165,5 @@ By combining historical stock data with company metadata, the dashboard provides
 
 ## Author
 
-**Ritik Pandey**
+**Shreya Doye**
 Computer Science Student | Data Analytics Enthusiast
